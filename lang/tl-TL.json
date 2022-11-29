@@ -1,0 +1,1635 @@
+
+
+  {
+   "american_football":"American Football 🏈",
+   "athletics":"Athletics 🏃‍♂️",
+   "archery":"Archery 🏹",
+   "badminton":"Badminton 🏸",
+   "bandy":"Bandy 🏒",
+   "baseball":"Baseball ⚪",
+   "basketball":"Basketball 🏀",
+   "beach_volleyball":"Beach Volleyball 🏐",
+   "boxing":"Boxing 🤼‍♂️",
+   "bubble_football":"Bubble Football ⚽",
+
+   "cricket":"Cricket 🏏",
+   "cycling":"Cycling 🚴‍♂️",
+   "dodgeball":"Dodgeball 🔴",
+   "dart":"Dart 🎯",
+   "fencing":"Fencing 🤺",
+   "finnish_baseball":"Finnish Baseball (Pesapallo)  ⚾",
+   "fistball":"Fistball ⚫",
+   "floorball":"Floorball 🌕",
+   "football":"Football ⚽",
+   "futsal":"Futsal 🧿",
+   "golf":"Golf 🏌️‍♂️",
+   "high_jump":"High jump 🏃‍♂️",
+   "ice_skating":"Ice skating ⛸",
+   "javelin":"Javelin 🤦‍♂️",
+   "karate":"karate 🥋",
+   "kick_boxing":"Kick boxing 🤼‍♂️",
+   "korftbal":"Korftball ⚽",
+   "kung_fu":"kung fu 🤼‍♀️",
+   "long_jump":"Long jump 🏃‍♀️",
+   "mixed_martial_arts":"Mixed Martial Arts 🤼👩‍🦯🧎‍♀️",
+   "motorsports":"Motorsports 🏍",
+   "netbal":"Netball 🟠",
+   "padel":"Padel ⚒",
+   "pole_vault":"Pole Vault ⛷",
+   "polo":"Polo 🏇",
+   "racquetball":"Racquetball 🟤",
+   "rugby":"Rugby 🏉",
+     "runing":"running 🏃",
+     "shooting":"Shooting 🔫",
+     "shotput":"Shotput 🏄‍♂️",
+
+
+     "skating":"Skating ⛸",
+     "skiing":"Skiing 🏂",
+     "snooker_and_Pool":"Snooker & Pool 🎱",
+     "squash":"Squash ⚫",
+     "swimming":"Swimming 🏊‍♂️",
+
+     "table_tennis":"Table Tennis 🏓",
+     "tae_kwon_do":"Tae Kwon Do 🏃👨‍🦯🧍‍♂️",
+     "tennis":"Tennis 🥎",
+     "tripple_jump":"Tripple Jump 🏃‍♀️",
+
+
+     "volleyball":"Volleyball 🏐",
+     "walkin":"Walking 🚶‍♀️🚶‍♀️",
+     "wrestling":"Wrestling 🤼",
+     "battleship":"Battleship 🚢 ",
+     "backgammon":"Backgammon 🧮 ",
+     "carrom":"Carrom 🎛 ",
+     "checkers":"Checkers 💷 ",
+     "chess":"Chess ♟ ",
+
+     "jenga":"Jenga 🩹 ",
+     "ludo":"Ludo 🏢 ",
+     "scrabble":"Scrabble 🔳",
+     "snake_ladder":"Snake & Ladder 🍱",
+     "videogames":"videogames 🖼",
+
+     "bowing":"bowing 🏹 ",
+     "dance":"dance 🕺 ",
+     "gym":"gym 🏋️‍♂️ ",
+     "pets":"pets 🦮 ",
+     "rock_climbing":"Rock Climbing 🧗‍♀️ ",
+     "skydiving":"skydiving 🪂 ",
+     "book_reading":"Book Reading 📖 ",
+     "spiritual":"Spiritual 🙇‍♀️ ",
+     "yoga":"Yoga 🧘‍♀️ ",
+
+
+ 
+   "classes":"Classes",
+   "running":"Running",
+   "competition":"Competition",
+   "seminar":"Seminar",
+   "event":"Event",
+   "training":"Training",
+   "exercise":"Exercise",
+   "walking":"Walking",
+   "games":"Games",
+   "webinar":"Webinar",
+   "outdoor":"Outdoor",
+   "outdoor_trip":"Outdoor Trip",
+   "workshop":"Workshop",
+   "programs":"Programs",
+
+
+    "welcome_to_pk":"Welcome to Playkosmos",
+    "choose_your_lang":"Choose your preferred language to get started",
+    "app_lang":"App Language",
+     "team_activity_schedule":"Team Activity Schedule",
+     "joined_text":"Joined",
+     "yes_will":"Yes i will",
+     "maybe":"Maybe",
+     "lowest_highest":"Lowest to Highest",
+     "highest_lowest":"Highest to Lowest",
+     "total_vote":"Total votes",
+     "days_left":"days left",
+     "submit":"Submit",
+     "see_activity_detail":"See activity details",
+     "team_activity_sche_team":"Team activities schedule are activities the team have joined or has created and require all team members to indicate whether they will be participating in or not.",
+     "request_declined" : "The creator declined your request",
+     "description_text" : "Description",
+     "booked_enue" : "Booked Venue",
+     "from" : "From",
+     "full_details" : "Full details",
+     "directions" : "Directions",
+     "back" : "Back",
+     "maximum_of_5_images":"Maximum of 5 images",
+     "choose_your_interest":"Choose your interest",
+     "fitness_recrt_adv_pet":"Fitness, Recreation, Adventures & Pets",
+     "mental_spritual_exer":"Mental & Spiritual Exercise",
+     "first_name":"First name",
+     "last_name":"Last name",
+      "enter_firstname":"*Please enter your first name",
+     "enter_lastname":"*Please enter your last name",
+     "firstname_err":"First name too short",
+     "lastname_err":"Last name too short",
+     "who_can_join":"Who can join",
+     "date_time":"Date & Time",
+     "only_playmate":"Only your playmates will see this post",
+     "playmate_fan":"Playmates + Fan",
+     "only_playmate_fan":"Only your playmates and fans will see this post",
+     "only_user_arena":"Only users on arena page can see this post",
+     "arena_post_remain":"(You have 20 posts remainingg to make to arena)",
+     "area_playmate":"Arena + Playmates",
+     "only_arena_playmate":"Only users on arena page and your playmates will see this post",
+     "everyone":"Everyone",
+     "everyone_desc":"Everyone (Arena + Playmates + Fans) will see this post",
+     "teammates":"Teammates",
+     "only_teammates":"Only teammates will see this post",
+     "teammates_fans":"Teammates + Fans",
+     "only_teammates_fans":"Only teammates and fans on the team will see this post",
+     "arena_teammates":"Arena + Teammates",
+     "only_arena_teammates":"Only users on arena page and your teammates will see this post",
+     "lovers":"Lovers",
+     "only_store_user":"Only users that love your store will see this post",
+     "everyone_store":"Users on arena page and those that love your store will see this post",
+     "only_venue_user":"Only users that love your venue will see this post",
+     "everyone_venue":"Users on arena page and those that love your venue will see this post",
+     "arena_play_fan":"Arena + Playmates + Fans",
+     "search_trend_activities" : "Search Trending Activities",
+     "activity_mode" : "Activty Mode",
+     "slot_time" : "Slot Time",
+     "add_img_video" : "Add image or Video (optional)",
+     "hours" : "Hours",
+     "view_venue" : "View Venue",
+     "minutes" : "Minutes",
+     "you_have_just_created_venue" : "You have just created your venue",
+     "will_the_veneu_open_24_hr" : "Will the venue zone be opened for booking 24 hours every day?",
+     "slot_time_desc" : "Slot time means the duration of which the venue zone will be allowed fpr booking E.g 1 hour, 45 minutes",
+     "description_optional" : "Description (Optional)",
+     "set_opening_closing_time" : "Set Venue Zone Opening and Closing time",
+     "apply_to_all" : "Apply to all",
+     "price_duration" : "Price and Duration",
+     "not_selected" : "Not Selected",
+     "yesterday" : "Yesterday",
+     "tomorrow" : "Tomorrow",
+     "slot_text" : "Slot",
+     "booking_details" : "Booking Details",
+     "cancel_booking" : "Cancel Booking",
+     "all_slots_available" : "All slots are available for booking", 
+     "slot_time_available" : "Slot time is available for booking", 
+     "some_slots_available" : "Some slots are available", 
+     "all_slots_booked" : "All slots are fully booked", 
+     "slot_booked" : "Slot time is booked", 
+     "closed_slot" : "Closed", 
+     "slot_time_closed" : "Slot time is Closed and not available for booking", 
+     "you_are_cancel_booking" : "You are about to cancel this booking", 
+     "bookee" : "Bookee", 
+     "payment_mode" : "Payment Mode", 
+     "tips" : "Tips", 
+     "gym_text" : "Gym", 
+     "booked_text" : "Booked", 
+     "edit_veneu_zone" : "Edit Venue Zone", 
+     "select_slot_time" : "Select a slot time", 
+     "venue_zone_availability" : "Venue zone availability",  
+      "purpose_of_booking_venue_otp" :"Purpose for booking (Optional)",
+      "slot_time_availability" :"Slot time availability are based on the selected date",
+      "available_for_booking" : "Aavailable for booking",
+      "in_venue_zone" : "in the venue zone of",
+      "love_text" : "love",
+      "date_of_birth" : "Date of Birth",
+      "online_text" : "Online",
+      "offline_text" : "Offline",
+      "zoom_text" : "Zoom",
+      "see_venue" : "See venue",
+      "playkosmos_venue" : "Playkosmos venue",
+      "other_venue" : "Others venue",
+      "select_type_of_venue" : "Select or specify the type of online venue",
+      "pick_venue_on_pk" : "Pick venue on playkosmos or add venue address details to activity",
+      "selected_venue_display_here" : "Selected venue will be display here",
+      "type_venue_name_addr" : "Type venue name and address here",
+      "type_venue_name" : "Type the venue name here",
+       "refund_policy_text" : "Refund Policy",
+       "insurance" : "Insurance",
+       "restriction" : "Restriction",
+       "sate_date_and_time" : "Set the date and time that participants can withdraw from an activity to get their payment back",
+        "restrict_who_can_join":"Restrict who can join",
+        "max_num_participants":"Maximum number of participants",
+        "age_limit":"Age Limits",
+        "gender_restriction":"Gender Restriction",
+        "other_restriction":"Other Restriction",
+        "male":"Male",
+        "female":"Female",
+        "type_here":"Type Here",
+        "booked_venue":"Booked Venue",
+        "suggestion":"Suggestion",
+        "offline_venue" : "Offline venue",
+        "all_my_venue" : "All my venues",
+        "pick_a_venue_zone" : "Pick a venue zone fom the selected venue",
+        "tap_the_image" : "Tap the image to have a view of the venue zone",
+        "venue_zone_detail" : "Venue zone detail",
+        "select_date_to_slot" : "Select a date to see the available slots on the venue zone you selected",
+        "available_slot_for_date" : "Available slots for this date",
+        "select_a_slot" : "Select a slot",
+        "add_to_activity" : "Add to activity",
+        "venue_zone_booked" : "Venue zone booked",
+        "english_us" : "English (U.S.A) 🇺🇸",
+        "english_uk" : "English (United Kingdom) 🇬🇧",
+        "chinese" : "Chinese (China) 🇨🇳",
+        "finnish" : "Finnish (Finland) 🇫🇮",
+        "french" : "French (France) 🇫🇷",
+        "hindi" : "Hindi (India) 🇮🇳",
+        "tamil" : "Tamil (Sri lanka) 🇱🇰",
+         "sinhala" : "Sinhala (Sri lanka) 🇱🇰",
+        "search_lang" : "Search language",
+
+
+
+
+
+
+
+    
+
+     "welcome":"Welcome",
+     "welcome_description":"We are so glad to have you here!!!",
+     "create_account":"Create Account",
+     "find":"Find",
+          "find_and_connect" :
+          "Find and connect with playmates or teams with similar interest",
+
+
+
+
+     "create" : "Create",
+     "create_team_store" :
+          "Create teams, stores, venues and all sorts of fun activities",
+
+     "earn" : "Earn",
+     "earn_point_and_redeem" :
+          "Earn points and redeem them towards activities and venue bookings",
+
+     "book" : "Book",
+     "onboard_four_description" :
+          "Book venues for various fun activities ",
+     "next" : "Next",
+     "skip" : "Skip",
+     "create_account_description" :"Create an account with the required information",
+     "username_text" : "Username",
+     "use_phone_text" : "Use Phone Instead",
+     "email_text" : "Email",
+     "email_sample" : "example@gmail.com",
+     "DOB_error_one" : "*Invalid date of birth",
+     "DOB_error_two" :
+          "*Only age 16 and above is allowed to register",
+          "enter_email":"*Please enter your email",
+          "enter_password":"*Please enter your password",
+          "invalid_email":"*Invalid Email Format",
+          "pass_error":"password must be minimum of 6 characters",
+          "otp_req_err":"*OTP is required",
+          "otp_cha_err":"*OTP must be 6 characters",
+          "invalid_otp":"*Invalid OTP",
+          "use":"Use",
+          "instead":"Instead",
+
+
+
+     "terms_error" : "*Please accept the terms and conditions",
+     "use_email_text" : "Use Email Instead",
+     "phone_error" : "*Invalid phone number",
+     "phone_text" : "Phone",
+     "create_password_text" : "Create Password",
+     "create_password_description" :
+          "Create a password you can easily remember",
+     "password_text" : "Password",
+     "text_value_email" : "email",
+     "forgot_password_text" : "Forgot Password",
+     "forgot_password_description" :
+          "If you have forgotten your password follow the instruction bellow",
+     "check_your_email_text" : "Check your Email",
+     "check_your_phone_text" : "Check your Phone",
+     "message_to_email_description" :
+          "A message has been sent to xxxxx@gmail.com with a link to reset the password",
+     "message_to_phone_description" : "A confirmation code has been sent to +12345678",
+     "code_verification" : "Code Verification",
+     "message_not_received" : "Message not received ?",
+     "login_text" : "Log into Account",
+     "login_description" : "Log into your account",
+     "remenber_me" : "Remind me",
+     "or_login" : "Or Login With",
+     "dont_have_account" : "Don't have an account?",
+     "login_btn_text" : "Login",
+     "step_2_text" : "Step 2",
+     "add_profle_pic" : "Add a profile picture",
+     "upload_profile_pic" : "Upload an image to your profile",
+     "bio_optional" : "Bio (Optional)",
+     "bio_text" : "Bio",
+     "short_desc_of_yourself" : "Short description of yourself",
+     "reset_password_text" : "Reset password",
+     "reset_password_description" : "Your new password must be different from\nyour previous ones",
+
+
+     "let_know_you" : "Let us know you better",
+
+     "done_text" : "Done",
+     "step_three" : "Step 3",
+     "select_all" : "Select all",
+     "sport_text" : "Sports",
+     "physical_activity" : "Physical Activity",
+     "mental_exercise" : "Mental Exercise",
+     "such_as_football" : "Such as : Football, Basketball...",
+     "such_as_dance" : "Such as : Dance, Yoga...",
+     "such_as_book" : "Such as : Book reading, Chess...",
+     "what_are_interest" :
+          "What are you interested in, such as sports, physical activities or mental exercise?",
+
+
+     "location_text" : "Location",
+     "location_description" : "Set up your location",
+     "get_location_text" : "Get current location",
+
+
+     "otp_verification" : "OTP Veriication",
+     "enter_otp_text" : "Enter OTP Code",
+     "otp_not_receive" : "OTP not received ?",
+     "otp_sent_description" :
+          "We have sent a One Time Password to the registered",
+     "address_text" : "Address",
+     "resend_otp_text" : "Resend OTP",
+     "cancel_text" : "Cancel",
+
+
+     "photo_text" : "photo",
+     "video_text" : "video",
+
+     "search_text" : "Search",
+     "file_name_text" : "File name",
+
+     "medial_text" : "Media",
+     "album_text" : "Album",
+     "link_text" : "Links",
+     "document_text" : "Document",
+
+     "mute_chat_text" : "Mute Chat",
+     "block_text" : "Block",
+     "conversation_text" : "Conversation",
+     "this_is_private_msg" :
+          "This is private message between you and ",
+     "your_mssg" : "Your message...",
+
+     "message_text" : "Message",
+     "playmate_text" : "Playmate",
+     "team_text" : "Team",
+     "store_text" : "Store",
+     "venue_text" : "Venue",
+     "who_would_you_chat_with" :
+          "Who would you like to chat with?",
+
+     "msg_your_friend" : "Message your friends",
+     "share_video_or_start" :
+          "Share videos or start a conversation",
+
+     "all_paymate_text" : "All Playmates",
+
+     "report_paymate_text" : "Report playmates",
+     "state_your_complaint" : "State your complaint",
+
+     "bookmark_store" : "Bookmarked Stores",
+
+     "team_join" : "Teams Joined",
+     "bookmark_team" : "Bookmarked Teams",
+
+     "bookmark_venue" : "Bookmarked Venues",
+
+
+     "see_activity_post_made" :
+          "See activities post made by other playmates, teams, stores and venues",
+     "trending_activities" : "Trending activities",
+     "activities_near_you" : "Activities near you",
+     "new_activities" : "New activities",
+
+
+     "activities_text" : "Activities",
+     "badges_text" : "Badges",
+
+     "status_text" : "Status",
+     "activity_text" : "Activity",
+
+     "playmate_fan_text" : "Playmate Fans",
+
+     "search_playmate" : "Search Playmates",
+     "search_fans" : "Search fans",
+     "mutual_playmate" : "Mutual Playmates",
+
+     "playmate_review" : "Playmate Reviews",
+
+     "request_sent" : "Request Sent",
+     "request_re_sent" : "Request resent",
+     "add_playmate" : "Add Playmate",
+     "add_photo" : "Add Photo",
+     "add_video" : "Add Video",
+     "and_more" : "and more",
+     "more_are_mutaul_playmate" : "more are mutual playmate",
+     "fan_text" : "Fans",
+     "review_text" : "Reviews",
+     "unfollow_text" : "Unfollow",
+     "become_fan_text" : "Become fan",
+     "playmate_ratings" : "Playmate Ratings",
+     "playmate_added" : "Playmate Added",
+     "question_text" : "Question",
+     "answer_text" : "Answer",
+
+     "discover_playmate" : "Discover Playmates",
+     "playmate_you_might_know" : "Playmate you might know",
+     "team_you_might_know" : "Teams you might know",
+     "new_playmate" : "New playmates",
+     "top_ranking_playmate" : "Top ranking playmates",
+     "top_ranking_venue" : "Top ranking venues",
+     "top_ranking_store" : "Top ranking Stores",
+     "top_ranking_team" : "Top ranking teams",
+     "trending_playmate" : "Trending playmates",
+     "trending_team" : "Trending teams",
+     "filter_top_ranking_teams" : "Filter Top Rankings Teams",
+     "team_displayed_represent" :
+          "The teams displayed here represent teams with the highest ranking in your location.",
+     "store_displayed_represent" :
+          "The stores displayed here represent stores with the highest ranking in your location.",
+     "venue_displayed_represent" :
+          "The venues displayed here represent venues with the highest ranking in your location.",
+
+     "rankings_text" : "Rankings",
+     "playmate_displayed_represent" :
+          "The playmates displayed here represent playmates with the highest ranking in your location.",
+     "reviews_text_cap" : "Reviews",
+     "reviews_text" : "reviews",
+     "filter_ranking" : "Filter Ranking",
+     "worldwide_text" : "Worldwide",
+     "country_text" : "Country",
+     "state_or_city_text" : "State/City",
+     "state_text" : "State",
+     "city_text" : "City",
+     "select_ratings" : "Select ratings",
+     "to_text" : "to",
+     "select_country" : "Select Country",
+     "select_state" : "Select State",
+     "search_country" : "Search Country",
+     "search_state" : "Search State",
+     "select_city" : "Select City",
+     "playmate_interest" : "Playmate Interest",
+     "filter_top_ranking_playmate" :
+          "Filter top rankings playmates",
+     "filter_top_ranking_venue" : "Filter top rankings venues",
+     "serach_top_ranking_venue" : "Search top ranking venue",
+     "serach_top_ranking_playmate" :
+          "Search top ranking playmate",
+     "filter_top_ranking_store" : "Filter top rankings stores",
+     "filter_text" : "Filter",
+
+     "write_about_post" : "Write about post",
+     "edit_post" : "Edit post",
+     "delete_post" : "Delete post",
+     "delete_this_post" : "Delete this post ?",
+     "make_an_admin" : "Make admin ?",
+     "make_a_captain" : "Make captain ?",
+     "remove_team_memeber" : "Remove team memeber ?",
+     "you_about_to_remove_playmate" :
+          "You are about to remove this playmate from your team",
+     "you_about_to_make_admin" :
+          "You are about to make this playmate an admin on your team",
+     "you_about_to_make_captain" :
+          "You are about to make this playmate a captain on your team",
+     "this_post_will_be_deleted" :
+          "This post will be deleted and unrecoverable",
+     "you_are_about_delete" :
+          "You are about to delete this post",
+     "this_means_you_wiil" :
+          "This means you will no longer see this post again.",
+
+     "rate_store" : "Rate store",
+     "rate_text" : "Rate",
+     "rating_text" : "Ratings",
+     "on_a_scale_rate_store" :
+          "On a scale of 1 to 5 rate this Store",
+     "type_review" : "Type Review (Optional)",
+     "type_your_review" : "Type your review",
+     "send_text" : "Send",
+
+     "report_store" : "Report Store",
+
+     "post_text" : "Post",
+     "participation_text" : "Participation",
+
+     "store_review" : "Store Reviews",
+
+     "people_like_this" : "people like this",
+     "store_product" : "Store Product",
+     "see_all" : "See All",
+     "add_product" : "Add Product",
+     "average_rating" : "Average Rating",
+
+     "create_product" : "Create Product",
+     "note_you_can_only_upload" :
+          "Note: you cannot upload more than five pictures in a collection.",
+     "product_name" : "Product Name",
+     "product_desc" : "Product Description (Optional)",
+     "product_price" : "Product Price (Optional)",
+
+     "create_store" : "Create Store",
+     "add_image" : "Add Image",
+     "upload_img_to_store" :
+          "Upload an image to your store profile",
+     "store_name" : "Store Name",
+     "your_store_name" : "Type store name",
+     "contact_phone_optional" :
+          "Contact Phone Number (Optional)",
+     "your_number_hint" : "Type phone number",
+     "store_interest" : "Store Interest",
+     "select_interest" : "Select Interest",
+     "store_location" : "Store Location",
+     "store_addr" : "Store Address",
+     "opening_closing_time" : "Opening and Closing time",
+     "select_workings" : "Select working days & hours",
+     "online_website" : "Online website link (Optional)",
+     "online_website_hint" : "www.",
+     "short_desc_hint" : "Short description",
+     "give_explanation" :
+          "Give a clear explanation of the activity",
+          "new_store_created":"New store created",
+          "you_store_created":"Your store has been successfully created,",
+
+     "discover_store" : "Discover Store",
+     "store_near_you" : "Stores near you",
+     "store_you_might_know" : "Stores you might know",
+     "popular_store" : "Popular stores",
+     "trending_store" : "Trending stores",
+     "new_store" : "New stores",
+
+     "edit_product" : "Edit Product",
+
+     "edit_store" : "Edit store",
+
+     "create_manage_store" : "Create and manage store",
+     "create_manage_venue" : "Create and manage venue",
+
+     "manage_store" : "Manage Store",
+     "message_store" : "Message Store",
+
+     "collections_text" : "Collections",
+
+     "teams_text" : "Teams",
+     "create_manage_team" : "Create and manage your own teams",
+     "my_team" : "My Team",
+     "joined_team" : "Joined Teams",
+     "join_team" : "Join Team",
+     "create_team" : "Create Team",
+     "team_interest" : "Team Interest",
+
+     "manage_team" : "Manage Team",
+
+     "no_text" : "No",
+     "yes_text" : "Yes",
+
+     "you_have_added" : "You have added",
+     "team_chat" : "Team Chat",
+     "playmate_to_your_team" : "playmates to your team",
+     "proceed_to_team" : "Proceed to team",
+     "back_to_home" : "Back to Home",
+     "add_member" : "Add Member",
+     "congratulations_text" : "Congratulations",
+     "you_have_successfully_created_team" :
+          "You have just successfully created your own team, now you can add playmate to join your team",
+     "added_text" : "Added",
+     "add_text" : "Add",
+     "new_members" : "New members",
+     "whou_would_you_add" :
+          "Who would you like to add to your team",
+     "select_activity_hosting" :
+          "Select the type of Activity you will be hosting",
+
+     "upload_img_to_your_team" :
+          "Upload an image to your team profile",
+     "team_name" : "Team Name",
+     "your_team_name" : "Your team name",
+     "team_location" : "Team Location",
+     "email_optional" : "Email (Optional)",
+     "email_hint" : "sample@gmail.com",
+
+     "discover_team" : "Discover Team",
+     "team_near_you" : "Teams near you",
+     "popular_team" : "Popular teams",
+     "new_team" : "New teams",
+
+     "rate_team" : "Rate Team",
+     "on_a_scale_rate_team" :
+          "On a scale of 1 to 5 rate this Team",
+
+     "report_team" : "Report Team",
+
+     "team_fans" : "Team Fans",
+     "all_fans" : "All Fans",
+     "who_are_you_looking" : "Who are you looking for ?",
+
+     "team_member" : "Team Members",
+     "creator_text" : "Creator",
+     "admin_text" : "Admin",
+     "captain_text" : "Captains",
+     "member_text" : "Members",
+
+     "team_review" : "Team Reviews",
+
+     "join_request" : "Join request",
+
+     "upcoming_text" : "Upcoming",
+     "cancelled_text" : "Cancelled",
+     "cancelled_withdraw" : "Cancelled / Withdraw",
+     "completed_text" : "Completed",
+
+     "all_text" : "All",
+     "booking_schedule" : "Booking Schedule",
+
+     "payment_text" : "Payment",
+     "summary_text" : "Summary",
+     "you_booked" :
+          "You booked",
+     "for_text" : "for",
+     "note_that_1_percent" :
+          "Please note that 1% of your total cost will be charged as a booking fee for being on the",
+     "venue_fee" : "Venue fee",
+     "booking_fee_1_percent" : "Booking fee 1%",
+     "total_const" : "Total Cost",
+     "gold_subScription_plan" : "Gold subscription plan",
+
+     "book_venue" : "Book Venue",
+     "name_text" : "Name",
+     "name_hint_text" : "Your name",
+     "venue_zone" : "Venue Zone",
+     "venue_zones" : "Venue Zones",
+     "store_zone" : "Store Zone",
+     "price_per_hour" : "Price per hour",
+     "date_text" : "Date",
+     "select_date" : "Select Date",
+     "time_duration" : "Time duration",
+     "select_time" : "Select time",
+     "choose_time" : "Choose Time",
+     "choose_day" : "Choose Day",
+     "purpose_of_booking" :
+          "Purpose for booking venue zone",
+
+     "please_note_that_time_available" :
+          "Please note that the time available on a venue-zone are based on the working hours of a venue",
+     "please_note_that_the_day_avaliable" :
+          "Please note that the day available on a venue are based on the working days",
+     "please_note_that_you" :
+          "Please note that you are required to add at least, one venue zone to create your venue",
+     "please_note_that_you_store" :
+          "Please note that you are required to add at least, one venue zone to create your store",
+     "unavailable_text" : "Unavailable",
+     "available_text" : "Available",
+     "selected_text" : "Selected",
+     "indicate_venue_booked" :
+          "Indicates that the venues is been booked",
+     "indicate_venue_available" :
+          "Indicates that the venues is available for booking",
+     "indicate_venue_selected" :
+          "Indicates that its already selected the day",
+
+     "rate_venue" : "Rate Venue",
+     "on_a_scale_rate_venue" :
+          "On a scale of 1 to 5, rate this Venue",
+
+     "report_venue" : "Report Venue",
+
+     "venue_review" : "Venue Reviews",
+
+     "add_venue_zone" : "Add Venue Zone",
+
+     "this_venue_has_been_booked" :
+          "This venue zone has been booked for a total of ",
+     "times_text" : "times ",
+     "edit_venue" : "Edit venue ",
+     "book_now" : "Book Now ",
+
+     "venue_zone_name" : "Venue Zone Name ",
+     "venue_desc" : "Venue Description",
+     "venue_price" : "Venue Price (€) ",
+     "price_hint_text" : "€50",
+     "duration_hint_text" : "1hr",
+     "create_venue" : "Create venue",
+
+     "upload_img_to_your_venue" :
+          "Upload an image to your Venue profile",
+     "venue_name" : "Venue Name",
+     "your_venue_name" : "Type Venue name",
+     "venue_interest" : "Venue Interest",
+     "venue_location" : "Venue Location",
+     "venue_addr" : "Venue Address",
+     "wish_to_partner" :
+          "Do you wish to partner with us for bookings ?",
+     "paypay_id" : "Paypal ID (For receiving your payments)",
+     "select_working_day" :
+          "Select working days also open and closing hours",
+
+     "discover_venue" : "Discover Venue",
+     "venues_near_you" : "Venues near you",
+     "venues_near_you_cap" : "Venues Near You",
+     "trending_venue" : "Trending venues",
+     "trending_venue_cap" : "Trending Venues",
+     "popular_venue" : "Popular venue",
+     "new_venue" : "New venues",
+     "new_venue_cap" : "New Venues",
+
+     "manage_venue" : "Manage Venue",
+
+
+
+     "my_space" : "My Space",
+     "replying_question" : "Replying Question",
+     "public_space" : "Public Space",
+     "q_a" : "Q & A",
+     "participant_text" : "Participant",
+     "write_comment" : "Write a comment",
+     "no_of_participants" : "Number of participants",
+     "participant_type" : "Participant Type",
+     "activity_details" : "Activity Details",
+     "activity_interest" : "Activity Interest",
+     "creator_reviews" : "Creator Reviews",
+     "insurance_availability" : "Insurance Availability",
+     "medical_bill" :
+          "Medical bills will be covered for injured participant ",
+     "request_to_join" :
+          "Your request to join this activity has been sent to the creator of this activity.\nYou are now on the waitlist for the activity, and you will be notified when the creator of the activity accepts or decline  your request ",
+     "you_will_be_notified" :
+          "You will be notified when the creator of the activity responds to your question",
+     "question_sent" : "Question sent",
+     "ask_question" : "Ask a Question",
+     "what_do_you_want_to_know" : "What do you want to know",
+     "you_just" : "You just",
+     "this_post_with" : "this post with",
+     "no_interest" :
+          "No interest was selected from the mental exercise section.",
+     "no_interest_selected" : "No interest selected",
+
+     "comments_text" : "Comments",
+     "write_a_comment" : "Write a comment",
+
+     "link_copied" : "Link copied",
+     "copy_link" : "Copy link",
+     "join_activity" : "Join Activity",
+
+     "create_and_manage" : "Create And Manage",
+     "create_teams_venue_and_store" :
+          "Create teams, Venue and Store",
+     "upcoming_activity" : "Upcoming Activities",
+     "send_request" : "Send Request",
+
+     "hide_post_from_this_user" :
+          "You are about to hide this post from your wall",
+     "you_are_about_to_hide_this_from_ths_playmate" :
+          "You are about to hide this from the this playmate",
+     "this_means_you_wont_able_to_see_this_perticular" :
+          "This means you won't be able to see this perticular post from this user",
+     "you_are_to_remove_this_playmate" :
+          "You are about to remove this playmate",
+     "remove_this_user" : "Remove This User ?",
+     "this_means_this_user_will_no_longer_be_your_playmate" :
+          "This means this user will no longer be your playmate",
+     "block_post_from_this_user" : "Block Post From This USer ?",
+
+          "this_mean_you_wont_post_and_activities_from_this_playmate" :
+          "This means you won't be able to see posts & activities from this playmate",
+
+     "see_more_activity" : "See more about activity",
+     "save_text" : "Save",
+     "tagged_text" : "Tagged",
+
+     "arena_text" : "Arena",
+     "venue_rating" : "Venue Ratings",
+     "view_profile" : "View Profile",
+     "get_fit_now" : "Get fit now",
+     "exercise_text" : "Exercise",
+
+     "search_history" : "Search history",
+     "clear_all" : "Clear all",
+
+     "attending_text" : "Attending",
+     "attended_text" : "Attended",
+
+     "payment_paid" : "PaymentPaid",
+
+
+     "un_paid_text" : "Unpaid",
+     "paid_text" : "Paid",
+     "paid_text_cap" : "PAID",
+     "refund_text" : "Refund",
+     "refunded_text" : "Refunded",
+
+     "request_text" : "Request",
+     "attendance_text" : "Attendance",
+     "go_to_activity" : "Go to Activity",
+     "duration_text" : "Duration",
+     "details_text" : "Details",
+
+     "reactions_text" : "Reactions",
+
+     "my_playmate" : "My Playmate",
+     "add_store" : "Add Store",
+     "my_store" : "My Store",
+     "bookmarked_store" : "Bookmarked Store",
+     "search_store" : "Search Store",
+
+     "add_team" : "Add Team",
+     "bookmarked_team" : "Bookmarked Team",
+     "search_team" : "Search Team",
+
+     "add_venue" : "Add Venue",
+     "my_venue" : "My Venue",
+     "bookmarked_venue" : "Bookmarked Venue",
+     "search_venue" : "Search Venue",
+
+     "publicly_text" : "Publicly",
+     "you_are_about_share_post" :
+          "You are about to share this post to your timeline",
+     "post_as" : "Post as",
+     "ago_text" : "ago",
+     "my_circle" : "My Circle",
+     "circle_text" : "Circle",
+     "only_user_on_area_page_" :
+          "Only users on arena page can see this post",
+     "on_your_user_connected" :
+          "Only your users that i am connected to can see this post",
+     "you_have_post_to_make_to_arena" :
+          "(You have 29 posts remaining to make to area)",
+     "express_yourself" : "Express yourself on your status",
+     "create_activity_for_others" :
+          "Create activity for othrers to participate",
+
+     "venue_optional" : "Venue (Optional)",
+     "activity_type" : "Activity Type",
+     "select_activity_type" : "Select Activity Type",
+     "select_activity" : "Select Activity ",
+     "target_group" : "Target Group",
+     "select_target_group" : "Select Target Group",
+     "allow_participant" : "Allow Participant",
+     "start_time" : "Start Time",
+     "end_time_optional" : "End Time (Optional)",
+     "attendance_optional" : "Attendance (Optional)",
+     "price_optional" : "Price in € (Optional)",
+     "allow_refund" : "Allow refund",
+     "details_optional" : "Details (Optional)",
+     "fill_required_fields" : "Please fill the required fields",
+     "select_activity_you_host" :
+          "Select the kind of activity you will be hosting",
+     "others_text" : "Others",
+     "write_activity_you_create" :
+          "Write the type of activity you will be creating",
+     "write_your_activity" : "Write your activity",
+     "write_activity" : "Write activity",
+     "interest_type" : "Interest type",
+     "activity_fee" : "Activity fee (€)",
+     "providing_insurance" :
+          "Are you providing insurance for the participant ?",
+     "insurance_detail" : "Full details of insurance",
+     "three_days_before" : "3 days before activity",
+     "cancellation_activity" : "Cancellation of activity",
+
+     "time_text" : "Time",
+     "guest_text" : "Guest",
+     "price_text" : "Price",
+     "descriptin_text" : "Description",
+     "you_are_about_to_make_post" :
+          "You are about to make this post to only your",
+     "here_are_your_options" : "here are your options",
+     "make_it_my_default" :
+          "Make it my default option and don't\nshow me again",
+
+     "discard_post" : "You are about to discard this post",
+     "create_post" : "Create Post",
+     "you_are_about_share" :
+          "You are about to share this status to your timeline",
+
+     "manage_activity" : "Manage Activity",
+     "event_text" : "Event",
+     "search_request" : "Search Request",
+     "slots_text" : "Slots",
+     "page_text" : "Page",
+     "items_text" : "items",
+     "particiant_no" : "Participant No: ",
+    
+     "activity_policy" : "Activity Policy",
+     "you_can_decline_user" :
+          "You can't decline a user 2 days to the activity date",
+     "search_unpaid" : "Search Unpaid",
+     "awaiting_payment" : "Awaiting payment",
+     "missed_text" : "Missed",
+     "mark_text" : "Mark",
+     "marked_text" : "Marked",
+     "send_otp" : "Send OTP",
+     "otp_sent" : "OTP sent",
+     "the_person_receive_one_time_password" :
+          "The person will receive a One Time Password which you will use to verify that the person is a participant of this activity",
+     "enter_participant_otp" : "Enter Participant OTP here",
+     "total_payment" : "Total Payment",
+     "present_text" : "Present",
+     "search_missed" : "Search Missed",
+     "search_attended" : "Search Attended",
+     "filter_by_activity_mode" : "Filter by Activty Mode",
+     "filter_by_activity_status" : "Filter by Activty Status",
+     "filter_by_activity_type" : "Filter by Activty Type",
+     "paid_activities" : "Paid Activities",
+     "free_activities" : "Free Activities",
+
+
+     "activities_participating" : "Activities Participating",
+     "pending_text" : "Pending",
+     "accepted_text" : "Accepted",
+     "declined_text" : "Declined",
+     "awaiting_response" :"Awaiting Response",
+
+
+     "report_playmate" : "Report Palymate",
+     "hide_text" : "Hide",
+     "remove_playmate" : "Remove Palymate",
+     "remove_text" : "Remove",
+     "block_playmate" : "Block Palymate",
+     "about_to_remove_playmate" :
+          "You are about to remove this playmate",
+     "about_to_block_playmate" :
+          "You are about to block this playmate",
+     "no_longer_be_your_playmate" :
+          "this means this user will no longer be your playmate",
+     "you_wont_be_able_to_see_their_post" :
+          "This means you won't be able to see posts & activities from this playmat",
+
+     "bookmarks_text" : "Bookmarks",
+     "saved_text" : "Saved",
+
+     "refund_policy" : "Refund & Cancel Policy",
+
+     "about_to_remove_store" :
+          "You are about to remove this store from Bookmark",
+
+     "about_to_remove_team" :
+          "You are about to remove this team from Bookmark",
+     "about_to_remove_playmate_from_bkm" :
+          "You are about to remove this playmate from Bookmark",
+
+     "about_to_remove_venue" :
+          "You are about to remove this venue from Bookmark",
+     "remove_from_bookmark" : "Remove from Bookmark ?",
+
+     "save_card" : "Save Card",
+     "card_number" : "Card Number",
+     "expire_date" : "Expiration date",
+     "cvv_cvc" : "CVV/CVC",
+     "card_num_hint" : "4233 XXXX XXXX 3543",
+     "date_month_hint" : "mm",
+     "date_year_hint" : "yyyy",
+     "date_day_hint" : "xx",
+     "card_holder_name" : "Card holder name",
+     "confirm_payment" : "Confirm Payment",
+
+     "credit_card" : "Credit Card",
+     "my_card" : "My Card",
+     "add_new_card" : "Add New Card",
+     "withdraw_now" : "Withdraw Now",
+     "withdrawn_text" : "Withdrawn",
+
+     "add_new_paypal" : "Add new Paypal",
+
+     "my_paypal" : "My Paypal",
+
+     "paypal_text" : "Paypal",
+     "payment_types" : "Payment types",
+
+     "total_points_earned" : "Total Point Earned",
+     "points_text" : "points",
+     "points_cap" : "Points",
+     "points_equivalents" : "Points Equivalent",
+     "view_details" : "View details",
+     "withdrawal_text" : "Withdrawal",
+     "request_withdrawal" : "Request Withdrawal",
+
+     "total_earnings" : "Total Earnings",
+     "all_eEarnings" : "All Earnings",
+     "all_activities" : "All Activities",
+     "made_withdrawal" :"f-You have just made a withdrawal of ",
+     "from_total_earning" :"-ffrom your total earnings",
+
+     "all_earning_from_each_category" :
+          "All your earnings from each categories on the app will be displayed here, E.g activities, points, store, venue, team and referral points",
+     "playmate_earn_point_by_creating" :
+          "Playmates earn points by Creating, participating in activities and sharing their referral code link with everyone which will be converted in money",
+     "all_tansactions_includes" :
+          "All transaction includes income and withdrawals from all aspect on playkosmos (team,store,venue,activities and referral code).",
+     "income_text" : "Income",
+
+     "card_text" : "Card",
+     "amount_text" : "Amount",
+     "withdrawal_mothod" : "Withdrawal Method",
+     "withdraw_with_a_card" :
+          "Withdraw with a credit/debit card",
+     "pay_with_a_card" : "Pay with a credit/debit card",
+     "receive_with_a_card" : "Receive with a credit/debit card",
+     "withdraw_using_paypal" :
+          "Withdraw using your Paypal account",
+     "pay_using_paypal_mtd" : "Pay using your Paypal account",
+     "receive_using_paypal_mtd" :
+          "Receive using your Paypal account",
+     "withdraw_with_my_card" : "Withdraw with my card card",
+
+     "filter_earnings" : "Filter Earnings",
+     "categories_text" : "Categories",
+     "debit_credit_card" : "Debit/Credit cards",
+     "default_text" : "Default",
+     "custom_text" : "Custom",
+     "display_transaction_from_week" :
+          "Display transaction from a week ago",
+     "choose_time_frame" : "Choose a time frame",
+     "earnings_type" : "Earnings Type",
+     "transaction_type" : "Transaction Type",
+     "transaction_history" : "Transaction History",
+     "withdrawal_type" : "Withdrawal Type",
+     "start_date" : "Start Date",
+     "end_date" : "End Date",
+
+     "points_earning" : "Points & Earning",
+     "earning_text" : "Earning",
+
+     "playamte_earn_by_creating" :
+          "Playmates earn points by getting others to join or by creating and partcipating in various activities",
+     "activity_points" : "Activity points",
+     "referral_points" : "Referral points",
+
+     "invite_friends" : "Invite friends",
+     "referra_code_copied" : "Referral code copied",
+     "total_referral_points" : "Total Referral Points",
+     "invite_your_friends" : "Invite your friends",
+     "you_can_only_convert_your_point" :
+          "You can only convert your points into money when you have 100points or above, which will be automically convert for you",
+     "share_playkosmos_earn" :
+          "Share Playkosmos and you will get get 5 Referal points when your friend registers with your referal Link or referral code",
+
+     "share_code" : "Share Code",
+     "used_your_code" : "used your referral code",
+
+     "qr_code" : "QR Code",
+     "my_code" : "My Code",
+     "scan_code" : "Scan Code",
+
+     "scan_other_playmate" :
+          "Scan other playmate QR-Code to add them on Playkosmos",
+     "barcode_type" : "Barcode Type",
+     "data_text" : "Data",
+     "scan_the_qr_code" : "Scan the QR Code",
+     "loading_text" : "loading",
+
+     "about_us" : "About Us",
+     "about_us_desc" :
+          "Culture, Value & Team\nPlaykosmos brings high-quality design to businesses all around the world in a fast and affordable way. We are a team of design experts working to make great design more accessible.\n\n\nWe're also a proud remote company and believe that you don't have to be tied down to an office to do awesome work. As a team of digital natives located across the globe, we share a strong team spirit and a commitment to power businesses with great design.\n\n\nFostering a positive, inclusive and safe environment. We develop and use tools and offer resources to our community members that help to make their experiences positive and inclusive, including when we think they might need help",
+
+     "change_password" : "Change Password",
+     "you_have_change_password" :
+          "You have successfully changed your password",
+     "old_password" : "Old Password",
+     "new_password" : "New Password",
+
+     "your_estimated_time" :
+          "Your estimated wait time 2minutes...",
+     "contact_support" : "Contact Support",
+     "playkosmos_text" : "Playkosmos",
+     "not_playkosmos" : "Not Playkosmos",
+     "playkosmos_customer" : "Playkosmos customer service",
+     "you_are_currently_chatting" :
+          "You are currently chatting with",
+     "representative_of_playkosmos" :
+          "a representative of Playkosmos",
+
+     "privacy_policy" : "Privacy policy",
+     "version_model" : "Version 3.29 june 2022",
+     "copyright_text" :
+          "Copyright © 2022 Free Software Foundation",
+     "everyone_is_permitted" :
+          "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed",
+     "preamble_text" : "Preamble",
+     "the_licence_for_most_software" :
+          "The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the General Public License is intended to guarantee your freedom to share and change all versions of a program to make sure it remains free software for all its users. \n \nWhen we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things. \n \nTo protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights.",
+     "by_registering_you_have" :
+          "By registering you have accepted to the \nterms and condition of the playkosmos",
+
+     "settings_text" : "Settings",
+     "account_settings" : "Account Settings",
+     "push_notifications" : "Push Notifications",
+     "search_radius" : "Search Radius",
+     "theme_text" : "Theme",
+     "language_English_and_Suomalainen" :
+          "Language (English & Suomalainen)",
+     "give_feedback_and_rating" : "Give Feedback & Ratings",
+     "terms_and_conditions" : "Terms and Conditions",
+     "english_text" : "English",
+     "suomalainen" : "Suomalainen",
+     "more_text" : "More",
+
+
+     "rate_app" : "Rate App",
+     "on_a_scale_rate_playkosmos" :
+          "On a scale of 1 to 5 rate this Playkosmos",
+
+     "search_distance" : "Search Distance",
+     "set_up_default_search_distance" :
+          "Set-up default search distance",
+     "you_can_set_up_search_distance" :
+          "you can set up to a search distance for all search on Playkosmos",
+     "search_distance_type" : "Search distance type",
+     "miles_text" : "Miles",
+     "kilometeres_text" : "Kilometeres",
+     "search_distance_km" : "Search Distance (km)",
+     "save_changes" : "Save Changes",
+     "min_text" : "Min.",
+     "max_text" : "Max.",
+
+
+     "tearm_conditions_descriptions" :
+          "Welcome!  These Terms of Use (or Terms)  govern your use of Playkosmos, except where we expressly state that separate terms (and not  these) apply. When you create an account or use PlayKosmos, you agree to these Terms. These Terms of Use therefore constitute an agreement between you and Facebook, Inc. \n  \nOffering personalised opportunities to create, connect, communicate, discover and share.  People are different. We want to strengthen your relationships through shared experiences that you actually care about. So we build systems that try to understand who and what you and others care about, and use that information to help you create, find, join and share in experiences that matter to you. \n  \nFostering a positive, inclusive and safe environment. We develop and use tools and  offer resources to our community members that \n help to make their experiences positive and inclusive, including when we think they might need help. We also have teams and systems that work to combat abuse and breaches of our Terms and Policies, as well as harmful and deceptive behaviour. We use all the information we have – including your information – to try to keep our platform secure.",
+
+     "by_registering_you_have_accepted" :
+          "By registering you have accepted to the terms and condition of the playkosmos",
+
+     "light_text" : "Light",
+     "dark_text" : "Dark",
+     "system_default" : "System Default",
+
+     "bronze_plan" : "Bronze Plan",
+     "free_text" : "FREE",
+     "unlimited_text" : "Unlimited",
+     "posts_text" : "Posts",
+     "subscribe_now" : "Subscribe Now",
+     "you_have_just_subscribe" :
+          "You have just Subscribe back to the Bronze plan",
+
+     "diamond_plan" : "Diamond Plan",
+
+     "gold_plan" : "Gold Plan",
+
+     "silver_plan" : "Silver Plan",
+
+     "you_are_about_subscribe" :
+          "You are about to subscribe to the",
+     "month_text" : "month",
+     "payment_method" : "Payment Method",
+     "subdcription_payment_success" :
+          "Your subscription payment was successful",
+
+     "subscription_plan" : "Subscription Plan",
+     "upgrade_to_silver" :
+          "Upgrade to Silver, Gold or Diamond for maximum experience on Playkosmos",
+     "monthly_subscription" : "Monthly Subscription",
+
+     "activities_created" : "Activities Created",
+
+     "activities_schedule" : "Activities Schedule",
+     "activities_manager" : "Activities manager",
+     "activities_manager_cap" : "Activities Manager",
+     "my_activities" : "My Activities",
+     "activities_joined" : "Activities joined",
+     "search_activities" : "Search activities",
+     "search_upcoming_activities" : "Search upcoming activities",
+     "search_cancelled_activities" :
+          "Search Cancelled Activities",
+     "activities_created_by_me" : "Activities Created by me",
+     "activities_im_participating" :
+          "Activities I'm participating",
+     "display_activities_week_from_now" :
+          "Display activities a week from now",
+     "filter_by_date" : "Filter by date",
+     "view_the_activity" : "View the activity",
+     "total_join_request" : "Total Join Request",
+     "total_accepted_request" : "Total Accepted Request",
+     "total_declined_request" : "Total Declined Request",
+     "check_activities_status" : "Check activities status",
+     "cancel_activity" : "Cancel Activity",
+     "dont_show_this_activity" : "Don't show this pop-up again",
+     "are_you_sure_cancel_activity" :
+          "Are you sure you want to cancel the activity ?",
+     "the_activity_will_beCancelled" :
+          "The activity will be cancelled and deleted, All income received from this activity will be refunded to the participant.",
+     "you_are_about_accept_this_user" :
+          "You are about to accept this user to participate in your activity",
+     "you_are_about_decline_this_user" :
+          "You are about to decline this user from participate in your activity",
+     "participants_that_yet_accepted" :
+          "Participants that are yet to be accepted or\ndeclined in this activity",
+     "participants_you_accepted" :
+          "Participants you accept to participate in this\nactivity",
+     "participants_you_declined" :
+          "Participants you declined from participate\nin this activity",
+     "re_accept_this_user" : "Re-Accept this user",
+     "do_you_want_to_re_accept_this_user" :
+          "Do you want to re-accept this user into your activity",
+     "this_user_has_been_accepted" :
+          "This user has been accepted",
+     "pending_participant" : "Pending Participant",
+     "paid_participant" : "Paid Participant",
+     "withdrawn_participant" : "Withdrawn Participant",
+     "participant_yet_to_pay" : "This participant is yet to pay",
+     "accepted_participant" : "Accepted Participant",
+     "declined_participant" : "Declined Participant",
+     "accepted_participant_paid_for_the_activity" :
+          "Accepted participant that have paid for the\nactivity",
+     "accepted_participant_yet_to_paid_for_the_activity" :
+          "Accepted participant that yet to pay for the\nactivity",
+     "participant_that_withdraw_from_the_activity" :
+          "Particpant that withdraw from the activity\nand will be refunded",
+     "total_paid_participant" : "Total Paid Participant",
+     "total_payment_awaiting" : "Total Payment Awaiting",
+     "total_present_participant" : "Total Present Participant",
+     "total_missed_participant" : "Total Missed Participant",
+     "total_awaiting_participant" : "Total Awaiting Participant",
+     "total_withdrawn_participant" :
+          "Total Withdrawn Participant",
+     "awaiting_text" : "Awaiting",
+     "waiting_text" : "waiting",
+     "participant_that_are_yet_to_be_present" :
+          "Participant that are yet to be present to the\nactivity",
+     "participant_that_are_present" :
+          "Participant that are present to the activity",
+     "participant_that_missed" :
+          "Participant that missed the activity",
+     "participant_marked" : "Participant Marked",
+     "an_otp_code_has_been_sent" :
+          "An otp code has been sent to the participant, tap the proceed button to read the participant otp to confirm ",
+     "scan_activity_qr_code" :
+          "Scan activity QR-CODE of the user to verify if the user is a participant in this activity.\nwhen not sure, send an OTP to confirm",
+     "the_person_will_receive_one_time_password" :
+          "The person will receive a One Time Password which you will use to verify that the person is a participant of this activity",
+     "otp_has_been_resent" : "Otp has been resent",
+     "read_code" : "Read Code",
+     "qr_code_virifacation" : "QR-Code Verification",
+     "scan_the_code_to_confirm" : "Scan the QR-CODE to confirm",
+     "ratings_text" : "Ratings",
+     "this_is_a_free_activity" : "This is free activity",
+     "no_payment_is_required" :
+          "No payment is required for this  activity",
+     "joined_activities" : "Joined  Activities",
+     "activity_status" : "Activity Status",
+     "you_have_been_accepted" : "You have been Accepted",
+     "waiting_for_the_activity_creator_response" :
+          "Waiting for the activity creator response",
+     "you_have_been_declined" : "You have been Declined",
+     "rejoin_activity" : "Re-join Activity",
+     "you_have_withdrawn_from_this_activity" :
+          "You have withdrawn from this activity",
+     "the_activity_created_by" : "The activity created by",
+     "is_a_free" : "is a free",
+     "requires_an" : "requires an",
+     "entry_fee_of" : "entry fee of",
+     "activity" : "activity",
+     "download_the_qr_code" : "Download the QR-CODE",
+     "all_the_creator_of_activity" :
+          "Also all the creator of the activity can send you a OTP password which can also be used as a means to confirm you as a participant.",
+     "get_activity_qr_code" : "Get Activity QR-Code",
+     "see_details" : "See details",
+     "qr_code_downloaded" : "QR-CODE Downloaded",
+     "you_have_downloaded" :
+          "You have just Downloaded the QR-CODE for this activity",
+     "activity_otp" : "Activity OTP",
+     "download_to_phone" : "Download to phone",
+     "exit_this_activity" : "Exit this Activity",
+     "withdrawn_from_activity" : "Withdrawn from Activity",
+     "activity_qr_code_has_been_downloaded_seccessfully" :
+          "Activity QR Code has been downloaded successfully",
+     "activity_otp_is_the_second_verification" :
+          "Activity OTP is a second step verification for the creator of the activity to verify the authenticity of your participation in the activity",
+     "your_otp_for_this_activity_is" :
+          "Your OTP for this activity is",
+     "if_you_exit_this_activity" :
+          "If you exit this activity, you will no longer be able to participate in this activity again, you will be refunded in completion or cancellation of the activity ",
+     "once_you_have_made_payment" :
+          "Once you have made payment, you will get a QR-CODE, which will be shown has prove that you a participant of the activity",
+     "proceed_to_payment" : "Proceed to payment",
+     "you_are_abput_to_pay" :
+          "You are about to pay €50 for an activity created by Swim team six.",
+     "payment_successful" : "Payment Successful",
+     "you_have_just_made_payment" :
+          "You have just made €50 payment for an activity, now download QR-CODE for the activity",
+     "exit_activity" : "Exit Activity",
+     "reason_for_exiting_activity" :
+          "Reason for exiting activity",
+     "optional_text" : "Optional",
+     "proceed_to_refund" : "Proceed to Refund",
+     "share_your_toughts_here" : "Share your toughts here",
+     "for_withdrawing_from_this_activity" :
+          "For withdrawing from this activity, your refund will be made in the completion or cancellation of this activity. choose a mode of payment you prefer",
+     "receive_with_my_card" : "Received with my card",
+     "refund_completed" : "Refund Completed",
+     "your_refund_details_has_been_save" :
+          "Your refund details has been saved and you will receive your refund on completion or cancellation of the activity",
+     "your_withdrew_from_this_activity" :
+          "You withdrew from this activity and you cannot participate in this activity again, but you will receive your refund on completion or cancellation of the activity",
+     "tagged_users" : "Tagged Users",
+     "awaiting_creator_response" : "Awaiting Creator Response",
+     "you_already_withdrew" :
+          "You already withdrew from this activity, you can no longer participate in the activity",
+     "you_request_has_been_resent" :
+          "Your request has been re-sent to the creator of the activity, await the response of the activity from the creator.",
+
+
+     "edit_profile" : "Edit Profile",
+     "edit_team" : "Edit Team",
+     "change_photo" : "Change photo",
+     "contact_phone" : "Contact Phone Number",
+     "interest_text" : "Interest",
+
+     "playmates_reviews" : "Playmates Reviews",
+
+     "all_your_fan" : "All your Fans",
+
+     "you_created_your_first_activity" :
+          "You created your first activity",
+     "total_badge_received" : "Total Badge Received",
+     "total_activities_created" : "Total Activities Created",
+     "total_activities_participated" :
+          "Total Activities Participated",
+     "activities_level" : "Activities Level",
+
+     "notifications" : "Notification",
+     "today_text" : "Today",
+
+     "all_your_playmates" : "All your Playmates",
+
+
+     "filter_search" : "Filter Search",
+
+     "search_playkosmos" : "Search Playkosmos",
+     "you_have_no_search_history" : "You have no search history",
+
+
+     "resend_text" : "Resend",
+     "resend_message" : "Resend Message",
+
+     "this_is_private_mssg" :
+          "This is a private messages between the members",
+     "you_are_about_to_mute_this_playmate" :
+          "You are about to mute this playmate",
+     "you_wont_able_to_continue_this_conversation" :
+          "This means you won't be able to continue this conversation ",
+     "you_are_about_clear_this_conversation" :
+          "You are about to clear this conversation",
+     "clear_chat" : "Clear Chat",
+     "report_text" : "Report",
+     "you_are_to_block_this_playmate" :
+          "You are about to block this playmate",
+     "this_means_you_wont_able_to_see_post" :
+          "This means you won't able to see posts & activities",
+     "proceed_text" : "Proceed",
+     "unlock_text" : "UnBlock",
+     "you_are_to_un_block_this_playmate" :
+          "You are about to unblock this playmate",
+
+     "you_are_about_to_un_mute_this_playmate" :
+          "You are about to unmute this playmate",
+     "inbox_text" : "Inbox",
+     "new_chat" : "New Chat",
+     "who_would_like_to_chat_with" :
+          "Who would you like to chat with ?",
+     "this_convo_is_on_mute" : "This conversation is on mute",
+     "you_have_block_this_playmate" :
+          "You have blocked this playmate",
+
+     "reply_text" : "Reply",
+     "forward_to" : "Forward to",
+     "redently_contacted" : "Recently Contacted",
+     "remove_message" : "Remove Message",
+     "remove_this_message" :
+          "You are about to remove this message",
+
+     "create_text" : "Create",
+     "my_text" : "My",
+
+     "pay_with_card" : "Pay with a Credit/Debit card",
+     "pay_using_paypal" : "Pay using your PayPal account",
+     "pay_using_point" : "Pay using your points",
+     "pay_with_my_card" : "Pay with my card",
+     "pay_now" : "Pay Now",
+     "avialable_points" : "Avialable Points",
+     "point_equivalent" : "Point Equivalent",
+     "point_payment" : "Points Payment",
+     "you_have_sufficient_point" :
+          "You have sufficient points to proceed payment, the sum of €200 would be charged from your points",
+     "venue_booked" : "Venue Booked",
+     "back_to_venue" : "Back To Venue",
+
+     "your_venue_has_been_successfully_booked" :
+          "Your Venue has been successfully booked",
+
+     "profile_card" : "Profile card",
+     "venue_card" : "Venue card",
+     "you_added_new_card" : "You just added a new card",
+
+     "share_text" : "Share",
+     "share_to_timeline" : "Share to Timeline",
+     "more_options" : "More Options",
+     "react_text" : "React",
+     "comment_text" : "Comment",
+
+
+     "you_about_to_remove_this_card" :
+          "You are about to remove this card from ppayment method",
+     "remove_card" : "Remove Card",
+     "save_card_as" : "Save card as",
+
+     "likes_text" : "likes",
+     "likes_cap" : "Likes",
+     "replies_text" : "replies",
+     "view_replies" : "View Replies",
+     "view_more" : "View more",
+     "hide_replies" : "Hide Replies",
+
+     "activities_trend_for_the_week" :
+          "Activities trend for the week",
+     "summary_of_activities" : "Summary of Activities",
+     "participated_text" : "Participated",
+     "energy_text" : "Energy",
+     "level_text" : "Level",
+     "high_text" : "High",
+     "medium_text" : "Medium",
+
+     "weekly_text" : "Weekly",
+     "monthly_text" : "Monthly",
+     "all_time" : "All Time",
+     "this_week" : "This Week",
+     "last_week" : "Last Week",
+     "last_month" : "Last Month",
+     "amount_of_activities" : "Amount of activities",
+     "these_are_this_week_activities" :
+          "These are this week's activities you created",
+     "these_are_this_week_activities_participated" :
+          "These are this week's activities you participated",
+
+     "Request_to_be_your_playmate" :
+          "Request to be your playmate",
+     "request_to_be_member" : "Request to be member of your ",
+     "accept_text" : "Accept",
+     "decline_text" : "Decline",
+     "add_memeber" : "Add member",
+     "make_admin" : "Make Admin",
+     "make_captain" : "Make Captain",
+     "remove_member" : "Remove member",
+
+     "logging_out" : "Logging out?",
+     "you_are_about_to_logout_from_playkosmos" :
+          "You are about to LOG-OUT from playkosmos?",
+     "points_and_earning" : "Points & Earnings",
+     "bookmarked_text" : "Bookmark",
+     "subscription_text" : "Subscription",
+     "logout_text" : "Logout",
+     "referral_code" : "Referral Code",
+
+     "success_text" : "Success",
+     "back_to_subscription_plan" : "Back To Subscription Plan",
+
+     "new_text" : "New",
+     "created_text" : "created",
+     "created_cap" : "Created",
+     "your_text" : "Your",
+     "has_been_successfully_created" :
+          "has been successfully created",
+     "proceed_to_view_and_manage" : "proceed to view and manage",
+     "manage_text" : "Manage",
+
+     "share_to" : "Share to",
+     "whatsApp_text" : "WhatsApp",
+     "sms_text" : "SMS",
+     "messenger_text" : "Messenger",
+     "instagram_text" : "Instagram",
+
+     "category_text" : "Category",
+     "activity_created_by" : "Activity Created By",
+     "view_qr_code" : "View QR-CODE",
+     "download_qr_code" : "Download QR-CODE",
+     "activity_qr_code" : "Activity QR-CODE",
+     "activity_creator" : "Activity Creator",
+     "activity_name" : "Activity Name",
+     "activity_title" : "Activity title",
+
+     "switch_text" : "Switch",
+     "delete_account" : "Delete Account",
+     "edit_text" : "Edit",
+     "delete_text" : "Delete",
+
+     "give_review" : "Give Review",
+
+     "see_less" : "less",
+     "see_more" : "more...",
+     "see_more_text" :"see more",
+
+
+
+     "i_have_accept_the" : "I have accept the",
+     "of_text" : "of",
+     "and_text" : "and",
+
+     "activity_post" : "Activity Post",
+     "status_post" : "Status Post",
+     "total_number_of_private_post_per_month" :
+          "Total Number of private post per month (To member that are connected to you)",
+     "total_number_of_public_post_per_month" :
+          "Total Number of public post per month (To anyone within your country of domicile)",
+     "total_number_of_playmate" : "Total Number of Playmate",
+     "total_number_of_team" : "Total Number of Team",
+     "total_number_of_store" : "Total Number of store",
+     "total_number_of_products_in_store" :
+          "Total Number of Product in Store",
+     "total_number_of_venue" : "Total Number of Venue",
+     "total_number_of_zones_in_venue" :
+          "Total Number of zones in a Venue",
+     "booking_fees" : "Booking Fees",
+     "withdrawal_fees" : "Withdrawal Fees",
+
+     "password_hanged" : "Password Changed",
+     "you_have_successful_chnaged_your_password" :
+          "You have successful chnaged your password",
+
+     "or_create_account_with" : "Or Create Account with",
+     "already_have_an_account" : "Already have an account ?",
+
+     "reset_text" : "Reset",
+     "filter_playmate" : "Filter Playmate",
+     "filter_sort" : "Filter And Sort",
+     "search_dis_miles" : "Search Distance (miles)",
+     "search_dis_result_display" :
+          "Search distance result display",
+     "search_type" : "Search type",
+     "search_results" : "Search results",
+     "venue_price__display" : "Venues Price display",
+     "playmate_search" : "Playmate Search",
+     "playmate_insterest" : "Playmate Interest",
+     "show_result" : "Show Results",
+     "filter_team" : "Filter Team",
+     "filter_store" : "Filter Store",
+     "filter_venue" : "Filter Venue",
+     "team_insterest" : "Team Interest",
+     "store_insterest" : "Store Interest",
+     "venue_insterest" : "Venue Interest",
+     "price_with_icon" : "Price (€)",
+     "what_are_you_looking_for" : "What are you looking for ?",
+     "on_all_cate" :"on all Categories within 0km to 10km radius",
+
+
+     "everyone_can_see_this_post" : "Everyone can see this post",
+     "only_your_team_memeber_that_view" :
+          "Only users on arena page can see this post",
+     "privately_text" : "Privately",
+
+     "activity_created_by_me" : "Activity Created by me",
+     "activity_im_participating" : "Activity i'm Participating",
+
+
+
+     "monday_text" : "Monday",
+     "tuesday_text" : "Tuesday",
+     "wednesday_text" : "Wednesday",
+     "thurday_text" : "Thurday",
+     "friday_text" : "Friday",
+     "saturday_text" : "Saturday",
+     "sunday_text" : "Sunday",
+
+
+     "ranking_text" : "Ranking",
+
+     "find_and_connect_connect_wiht_new_friend" :
+          "Find and connect with new\nfriends with similar interest.",
+     "find_new_teams_create" :
+          "Find new teams, create or\nparticipate in activities.",
+     "find_and_book_venue" :
+          "Find and book venues for\nyour activities.",
+     "find_and_chat_with_product" :
+          "Find and chat with product\nsellers.",
+     "find_playmate_with_the_highest" :
+          "Find playmate with the highest\nrankings with your location",
+
+     "you_are_making_this_post_as_your_username" :
+          "You are making this post as your Username",
+     "you_are_making_this_post_as_your_team" :
+          "You are making this post as your Team",
+     "you_are_making_this_post_as_your_store" :
+          "You are making this post as your Store",
+     "you_are_making_this_post_as_your_venue" :
+          "You are making this post as your Venue",
+
+     "bookings_schedule" : "Bookings Schedule",
+     "switch_team" : "Switch Team",
+     "switch_account" : "Switch Account",
+
+     "filter_by" : "Filter By",
+     "apply_text" : "Apply",
+
+     "home_text" : "Home",
+     "discover_text" : "Discover",
+     "chat_text" : "Chat",
+     "profile_text" : "Profile",
+
+     "what_activity_are_you_looking" :
+          "What activity are you looking for ?",
+     "filter_activity" : "Filter Activity",
+     "fre_text" : "free",
+     "activities_participant" : "Activities Participant"
+
+
+}
