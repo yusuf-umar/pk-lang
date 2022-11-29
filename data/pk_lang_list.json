@@ -1,50 +1,67 @@
-[
-  {
-    "name": "English",
-    "lang": "English (UK)",
-    "flag": "🇬🇧",
-    "local": "en_UK"
-  },
-  {
-    "name": "English",
-    "lang": "English (US)",
-    "flag": "🇺🇸",
-    "local": "en_US"
-  },
-  {
-    "name": "Suomalinen",
-    "lang": "Suomalinen (FI)",
-    "flag": "🇫🇮",
-    "local": "fi_FI"
-  },
-  {
-    "name": "French",
-    "lang": "French (FR)",
-    "flag": "🇫🇷",
-    "local": "fr_FR"
-  },
-  {
-    "name": "Chinese",
-    "lang": "Chinese (CH)",
-    "flag": "🇨🇳",
-    "local": "ch_CH"
-  },
-  {
-    "name": "Tamil",
-    "lang": "Tamil (SL)",
-    "flag": "🇱🇰",
-    "local": "si_SL"
-  },
-  {
-    "name": "Sinhala",
-    "lang": "Sinhala (SL)",
-    "flag": "🇱🇰",
-    "local": "tl_SL"
-  },
-  {
-    "name": "Hindi",
-    "lang": "Hindi (IN)",
-    "flag": "🇮🇳",
-    "local": "hi_IN"
-  }
-]
+ [
+
+    {
+     
+      "name": "English",
+      "lang": "English (UK)",
+      "flag": "🇬🇧",
+      "local": "en_UK"
+          
+
+    },
+   
+    {
+     
+      "name": "English",
+      "lang": "English (U.S)",
+        "flag": "🇺🇸",
+      "local": "en_US"
+     
+    
+    },
+  
+    {
+    
+      "name": "Finnish",
+      "lang": "Finnish (FL)",
+       "flag": "🇫🇮",
+      "local": "fi_FI"
+    },
+    {
+   
+      "name": "French",
+      "lang": "French (FR)",
+       "flag": "🇫🇷",
+      "local": "fr_FR"
+    },
+     {
+    
+      "name": "Chinese",
+      "lang": "Chinese (CH)",
+       "flag": "🇨🇳",
+      "local": "zh_ZH"
+    },
+    {
+   
+      "name": "Tamill",
+      "lang": "Tamil (SR)",
+        "flag": "🇱🇰",
+      "local": "tl_TL"
+    },
+   
+    {
+    
+      "name": "Sinhala",
+      "lang": "Sinhala (SR)",
+         "flag": "🇱🇰",         
+      "local": "sr_SR"
+    },
+     {
+  
+      "name": "Hindi",
+      "lang": "Hindi (IN) 🇮🇳",
+       "flag": "🇱🇰",
+      "local": "hi_HI"
+    }
+    
+  ]
