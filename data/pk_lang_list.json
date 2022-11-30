@@ -13,7 +13,7 @@
     {
      
       "name": "English",
-      "lang": "English (U.S)",
+      "lang": "English (US)",
         "flag": "🇺🇸",
       "local": "en_US"
      
@@ -22,8 +22,8 @@
   
     {
     
-      "name": "Finnish",
-      "lang": "Finnish (FL)",
+      "name": "Suomalinen",
+      "lang": "Suomalinen (FI)",
        "flag": "🇫🇮",
       "local": "fi_FI"
     },
@@ -44,15 +44,15 @@
     {
    
       "name": "Tamill",
-      "lang": "Tamil (SR)",
+      "lang": "Tamil (SL)",
         "flag": "🇱🇰",
-      "local": "tl_TL"
+      "local": "si_SL"
     },
    
     {
     
       "name": "Sinhala",
-      "lang": "Sinhala (SR)",
+      "lang": "Sinhala (SL)",
          "flag": "🇱🇰",         
       "local": "tl_SL"
     },
