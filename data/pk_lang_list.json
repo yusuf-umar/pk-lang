@@ -5,7 +5,9 @@
       "name": "English",
       "lang": "English (UK)",
       "flag": "🇬🇧",
-      "local": "en_UK"
+      "local": "en_UK",
+      "icon": "assets/icons/svg/ukFlag.svg"
+
           
 
     },
@@ -15,7 +17,8 @@
       "name": "English",
       "lang": "English (US)",
         "flag": "🇺🇸",
-      "local": "en_US"
+      "local": "en_US",
+      "icon": "assets/icons/svg/usaFlag.svg"
      
     
     },
@@ -25,28 +28,32 @@
       "name": "Suomalinen",
       "lang": "Suomalinen (FI)",
        "flag": "🇫🇮",
-      "local": "fi_FI"
+      "local": "fi_FI",
+      "icon": "assets/icons/svg/finlandFlag.svg"
     },
     {
    
       "name": "French",
       "lang": "French (FR)",
        "flag": "🇫🇷",
-      "local": "fr_FR"
+      "local": "fr_FR",
+      "icon": "assets/icons/svg/franceFlag.svg"
     },
      {
     
       "name": "Chinese",
       "lang": "Chinese (CH)",
        "flag": "🇨🇳",
-      "local": "zh_CH"
+      "local": "zh_CH",
+      "icon": "assets/icons/svg/china.svg"
     },
     {
    
       "name": "Tamill",
       "lang": "Tamil (SL)",
         "flag": "🇱🇰",
-      "local": "si_SL"
+      "local": "si_SL",
+      "icon": "assets/icons/svg/srilankaFlag.svg"
     },
    
     {
@@ -54,14 +61,16 @@
       "name": "Sinhala",
       "lang": "Sinhala (SL)",
          "flag": "🇱🇰",         
-      "local": "tl_SL"
+      "local": "tl_SL",
+      "icon": "assets/icons/svg/srilankaFlag.svg"
     },
      {
   
       "name": "Hindi",
       "lang": "Hindi (IN)",
         "flag": "🇮🇳",
-      "local": "hi_IN"
+      "local": "hi_IN",
+      "icon": "assets/icons/svg/indiaFlag.svg"
     }
     
   ]
